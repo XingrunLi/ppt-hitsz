@@ -13,3 +13,5 @@ a powerpoint template for HITSZ
 ![image-20221128233753572](https://cdn.jsdelivr.net/gh/XingrunLi/pic_lib/img/202211282337343.png)
 
 更多样式，请下载使用！
+
+> 根据![THU-PPT](https://github.com/atomiechen/THU-PPT-Theme)修改而来
